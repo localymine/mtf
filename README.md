@@ -9,3 +9,5 @@ http://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know
 # Improve wordpress with nodejs
 
 http://www.1001.io/improve-wordpress-with-nodejs/
+
+http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever/
